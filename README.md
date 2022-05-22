@@ -15,7 +15,7 @@ A chave Pix é utilizada para transferências bancárias instantâneas. Ela repr
 
 <img src="https://user-images.githubusercontent.com/102909929/169671578-93c080a2-de56-48f3-9ca1-dc8b07d657f2.jpg" width="250" height="490">
 
-#### :small_orange_diamond: Agora selecione em qual tipo de conta será criada a chave Pix, _Poupança_ ou _Conta corrente_
+#### :small_orange_diamond: Agora selecione em qual tipo de conta será criada a chave Pix, _poupança_ ou _conta corrente_
 
 <img src="https://user-images.githubusercontent.com/102909929/169671580-f1571e0a-d7f1-4c65-bb75-362dc5cd0ce5.jpg" width="250" height="490">
 
