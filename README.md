@@ -1,5 +1,5 @@
 # Como criar sua chave Pix
-A chave Pix é utilizada para transferências bancárias rápidas. Ela representa de maneira resumida a conta bancária envolvida na transação, facilitando os pagamentos e transferências. Neste breve guia você aprenderá a configurar sua chave Pix personalizada no aplicativo Itaú.
+A chave Pix é utilizada para transferências bancárias instantâneas. Ela representa de maneira resumida a conta bancária envolvida na transação, facilitando os pagamentos e transferências. Neste breve guia você aprenderá a configurar sua chave Pix personalizada no aplicativo Itaú.
 
 ## Passo a passo
 
