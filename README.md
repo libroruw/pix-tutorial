@@ -19,14 +19,14 @@ A chave Pix é utilizada para transferências bancárias instantâneas. Ela repr
 
 <img src="https://user-images.githubusercontent.com/102909929/169671580-f1571e0a-d7f1-4c65-bb75-362dc5cd0ce5.jpg" width="250" height="490">
 
-#### :small_orange_diamond: Aqui, selecione qual será a chave Pix a ser criada. Você pode escolher entre as opções _CPF_, _celular_, _e-mail_ e _aleatória_ – esta última opção consiste em uma sequência de letras e números aleatórios gerados automaticamente para quem não quer informar os dados pessoais em um recebimento.
+#### :small_orange_diamond: Aqui, selecione qual será a chave Pix a ser criada. Você pode escolher entre as opções _CPF_, _celular_, _e-mail_ e _aleatória_ – esta última opção consiste em uma sequência de letras e números aleatórios gerados automaticamente para quem não quer informar os dados pessoais em um recebimento
 
 <img src="https://user-images.githubusercontent.com/102909929/169671581-224f2468-1239-450c-81db-eb9502a78537.jpg" width="250" height="490">
 
-#### :small_orange_diamond: Clique em _finalizar cadastro_.
+#### :small_orange_diamond: Clique em _finalizar cadastro_
 
 <img src="https://user-images.githubusercontent.com/102909929/169671582-81364070-e292-4a62-89b1-4208bff2a2c0.jpg" width="250" height="490">
 
-#### :small_orange_diamond: Pronto! A sua chave Pix foi cadastrada com sucesso.
+#### :small_orange_diamond: Pronto! A sua chave Pix foi cadastrada com sucesso
 
 <img src="https://user-images.githubusercontent.com/102909929/169705340-ee8a32fa-7c42-4483-94a9-d9dba69f5f7e.jpg" width="250" height="490">
